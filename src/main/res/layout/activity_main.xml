@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/app_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_border_white"
+        android:onClick="login_RegisterAlert"
+        android:text="@string/login_or_register"
+        />
+
+
+    <Button
+        android:id="@+id/btnOfir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_border_white"
+        android:onClick="moveToSecond"
+        android:text="@string/move_to_list"
+        android:layout_gravity="center"
+        />
+
+</RelativeLayout>
