@@ -7,9 +7,9 @@ You can send toDos for other people in network , With nickName (if choose not to
 
 delete, add, update, read. (Normal functionalities) 
 
-<a href="https://files.fm/u/e48bpdav#/view/TodoDa_1.png"><img src="https://files.fm/thumb_show.php?i=f364zhqf">pic_1</a>
+<a href="https://files.fm/u/e48bpdav#/view/TodoDa_1.png"><img src="https://files.fm/thumb_show.php?i=f364zhqf"/>
 
-<a href="https://files.fm/u/e48bpdav#/view/TodoDa_2.png"><img src="https://files.fm/thumb_show.php?i=bavpdu4p">pic_2</a>
+<a href="https://files.fm/u/e48bpdav#/view/TodoDa_2.png"><img src="https://files.fm/thumb_show.php?i=bavpdu4p"/>
 
 
-<a href="https://files.fm/u/e48bpdav#/view/TodoDa_3.png"><img src="https://files.fm/thumb_show.php?i=v7wg4mr4">pic_3</a>
+<a href="https://files.fm/u/e48bpdav#/view/TodoDa_3.png"><img src="https://files.fm/thumb_show.php?i=v7wg4mr4"/>
